@@ -26,5 +26,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsdeepak17&show_icons=true&locale=en" alt="dsdeepak17" width="340" height="135" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsdeepak17&" alt="dsdeepak17" width="340" height="135" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dsdeepak17&" alt="dsdeepak17" width="340" height="135" />
 </div>
