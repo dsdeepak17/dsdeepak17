@@ -21,8 +21,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dsdeepak17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dsdeepak17" /></a></p><br><br>
 
+<div style="display: 'flex'" >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsdeepak17&show_icons=true&locale=en&layout=compact" alt="dsdeepak17" width="240" height="100" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsdeepak17&show_icons=true&locale=en" alt="dsdeepak17" width="340" height="135" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsdeepak17&" alt="dsdeepak17" width="340" height="135" />
+</div>
