@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nextjs, Node.js, express.js, Prisma<br>💬 Ask me about React.js<br>📫 How to reach me dsdeepak1792@gmail.com
+🌱 I’m currently learning Node.js, express.js, Prisma<br>💬 Ask me about React.js<br>📫 How to reach me dsdeepak1792@gmail.com
 
 
 ## 🌐 Socials:
