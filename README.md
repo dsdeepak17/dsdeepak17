@@ -15,8 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dsdeepak1792)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dsdeepak17&label=Profile%20Views)](https://visitcount.itsvg.in)
