@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deepak)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
